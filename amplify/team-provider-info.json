@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-weathertime-dev-6644f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::825765393677:role/amplify-weathertime-dev-6644f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::825765393677:role/amplify-weathertime-dev-6644f-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-weathertime-dev-6644f-deployment",
+      "UnauthRoleName": "amplify-weathertime-dev-6644f-unauthRole",
+      "StackName": "amplify-weathertime-dev-6644f",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:825765393677:stack/amplify-weathertime-dev-6644f/de8c7ff0-e6ba-11ef-9dd2-0a7a7e924219",
+      "AmplifyAppId": "d67xazglu1ues"
+    },
+    "categories": {
+      "api": {
+        "weathertime": {}
+      }
+    }
+  }
+}
